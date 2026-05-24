@@ -246,4 +246,4 @@ main          ← stable, tagged releases only
 
 🟡 **In active development**
 
-Started: May 2026
+Started: May 2026.
